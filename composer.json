@@ -1,0 +1,20 @@
+{
+    "name": "nece001/php-component-config",
+    "description": "php 组件配置",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Nece001\\PhpComponentConfig\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "nece001",
+            "email": "nece001@163.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.4"
+    }
+}
